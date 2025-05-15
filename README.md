@@ -10,6 +10,6 @@
 - 🌐 I’m looking for help with Open Source contributions and Cloud Computing
 - 💬 Ask me about coding with Python
 - 📫 How to reach me:https://www.linkedin.com/in/suwarnalatha-m/ | Email:m.suwarnalatha309@gmail.com
-- 👩🏽‍💻 Pronouns:She/Her
+- 👩‍💻 Pronouns:She/Her
 - ⚡ Fun fact: I can code with music on!😅😇
 
