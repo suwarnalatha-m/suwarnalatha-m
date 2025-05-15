@@ -1,7 +1,7 @@
  ## Hi there 👋
 
 
-**I'm Suwarnalatha-M**
+**I'm Suwarnalatha.M**
 
 
 - 🎓I’m currently pursuing my Undergraduation
