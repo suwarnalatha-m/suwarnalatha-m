@@ -1,16 +1,15 @@
-## Hi there 👋
+ ## Hi there 👋
 
 <!--
-**suwarnalatha-m/suwarnalatha-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Suwarnalatha-M**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently pursuing my Undergraduation
+- 🌱 I’m currently learning Technical tools for Software Solutions including Python,Java and Web Development
+- 👯 I’m looking to collaborate on Hands-on-Projects on Sustainable Tech
+- 🤔 I’m looking for help with Open Source contributions and Cloyd Computing
+- 💬 Ask me about coding with Python
+- 📫 How to reach me:https://www.linkedin.com/in/suwarnalatha-m/ |Email:m.suwarnalatha309@gmail.com
+- 👩🏽‍💻 Pronouns:She/Her
+- ⚡ Fun fact: I can code with music on!😅😇
 -->
