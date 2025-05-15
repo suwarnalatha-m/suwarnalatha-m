@@ -4,7 +4,7 @@
 **I'm Suwarnalatha.M**
 
 
-- 🎓I’m currently pursuing my Undergraduation
+- 🎓I’m currently pursuing my Undergraduate Studies
 - 💡 I’m currently learning Technical tools for Software Solutions including Python,Java and Web Development
 - 🤝 I’m looking to collaborate on Hands-on-Projects on Sustainable Tech
 - 🌐 I’m looking for help with Open Source contributions and Cloud Computing
